@@ -1,4 +1,4 @@
-### Hi there 👋
+### :O
 
 <!--
 **t4ngentt/t4ngentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=t4ngentt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4ngentt&theme=dark&hide_border=true&count_private=true" />
