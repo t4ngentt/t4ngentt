@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=t4ngentt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4ngentt&theme=dark&hide_border=true&count_private=true" />
+
+#### [pog?](https://google.com)
